@@ -6,4 +6,5 @@ The example code (Matrix Programmer) is a functional example what needs some wor
 It can program a Matric 1000 allready (all parameters) I still need to implement the midi inputs for merging Keyboard data with the patch programming data.
 The DXF file contains the front panel drawing.
 ![image](https://github.com/VerreyckenGerd/UniversalMidiController/assets/69856911/03b45798-9bad-4695-bcee-560bc0c15f5a)
-![image](https://github.com/VerreyckenGerd/UniversalMidiController/assets/69856911/7c5253eb-2af3-45a0-b026-0420c3882c60)
+![image](https://github.com/VerreyckenGerd/UniversalMidiController/assets/69856911/036f3e93-2867-432f-ab91-777e3081beaf)
+
