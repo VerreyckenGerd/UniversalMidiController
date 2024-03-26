@@ -7,4 +7,7 @@ It can program a Matric 1000 allready (all parameters) I still need to implement
 The DXF file contains the front panel drawing.
 ![image](https://github.com/VerreyckenGerd/UniversalMidiController/assets/69856911/03b45798-9bad-4695-bcee-560bc0c15f5a)
 ![image](https://github.com/VerreyckenGerd/UniversalMidiController/assets/69856911/036f3e93-2867-432f-ab91-777e3081beaf)
+![image](https://github.com/VerreyckenGerd/UniversalMidiController/assets/69856911/f904783d-9c9e-4d2d-b3cd-7f0767c8c305)
+![image](https://github.com/VerreyckenGerd/UniversalMidiController/assets/69856911/f58790d2-30e3-4e6e-a4a5-3ece02880143)
+
 
